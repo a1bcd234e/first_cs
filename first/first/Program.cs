@@ -6,7 +6,7 @@ namespace first
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine("으아아ㅏ아");
         }
-    }
+    } 
 }
